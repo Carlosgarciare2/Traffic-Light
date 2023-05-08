@@ -10,3 +10,14 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.palo{
+    width: 20px;
+    height: 100px;
+}
+
+.base {
+    width: 100px;
+    height: 300px;
+    border-radius: 10px;
+}
