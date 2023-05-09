@@ -11,13 +11,22 @@
 
 */
 
-.palo{
-    width: 20px;
-    height: 100px;
-}
-
 .base {
     width: 100px;
     height: 300px;
     border-radius: 10px;
+    margin-top: 300px;
+    padding-left: 23px;
 }
+
+.light {
+    border-radius: 50px;
+    width: 80px;
+    height: 80px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.light.activo {
+    background-color: yellow;
+  }
